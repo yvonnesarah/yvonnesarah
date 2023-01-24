@@ -11,7 +11,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<h3 align='center'>Profile View
+<h3 align='center'>
 
   ![](https://komarev.com/ghpvc/?username=yvonnesarah)
   
