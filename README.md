@@ -70,11 +70,8 @@
 
 
 <h3 align="center">Top Languages Used
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah&layout=compact&theme=vision-friendly-dark)]
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah)](https://github.com/yvonnesarah/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah&layout=compact&theme=vision-friendly-dark))](https://github.com/yvonnesarah/github-readme-stats)
 
 </h3>
 
