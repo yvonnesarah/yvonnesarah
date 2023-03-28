@@ -76,7 +76,9 @@
 </h3>
 
 <h3 align='center'>GitHub Stats 
+  
   ![Yvonne's github stats](https://github-readme-stats.vercel.app/api?username=yvonnesarah)
+
 </h3>
   
 <p align='center'>
