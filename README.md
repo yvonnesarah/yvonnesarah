@@ -73,6 +73,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 
 </h3>
@@ -80,6 +81,7 @@
 <h3 align='center'>GitHub Stats 
 
 ![Yvonne's github stats](https://github-readme-stats.vercel.app/api?username=yvonnesarah&show_icons=true&theme=radical)
+  ![Yvonne's github stats](https://github-readme-stats.vercel.app/api?username=yvonnesarah)
 
 
 </h3>
