@@ -73,6 +73,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah&layout=compact&theme=vision-friendly-dark)]
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah)](https://github.com/yvonnesarah/github-readme-stats)
 
 </h3>
 
