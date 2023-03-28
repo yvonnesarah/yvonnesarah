@@ -24,7 +24,7 @@
  
  🎓&nbsp;I have a Bachelor's degree in Computer Science at University of Essex.<br>
  
- I'm currently learning User Experience Design, Application Programming Interfaces (APIs), JQuery, JSON, AJAX, Node JS, JavaScript ES6, Object-Oriented Programming, React, DOM Manipulation, Responsive Design, Testing/Debugging, Chrome DevTools at Front End Development – Trilogy’s Skills Bootcamp.
+ I learned User Experience Design, Application Programming Interfaces (APIs), JQuery, JSON, AJAX, Node JS, JavaScript ES6, Object-Oriented Programming, React, DOM Manipulation, Responsive Design, Testing/Debugging, Chrome DevTools at Front End Development – Trilogy’s Skills Bootcamp.
  
 </h3>
 
