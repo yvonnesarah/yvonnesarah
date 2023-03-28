@@ -77,7 +77,7 @@
 
 <h3 align='center'>GitHub Stats 
   
-  ![Yvonne's github stats](https://github-readme-stats.vercel.app/api?username=yvonnesarah)
+  ![Yvonne's github stats](https://github-readme-stats.vercel.app/api?username=yvonnesarah&theme=dark&background=000000))
 
 </h3>
   
