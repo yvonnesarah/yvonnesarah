@@ -1,7 +1,6 @@
-
-
 <h1 align='center'>
   Hi there 👋🏽 I'm Yvonne 👩🏾‍💻
+  Front-End Developer
   </h1>
 
 <p align='center'>
@@ -19,12 +18,18 @@
   
 
 <h3 align='center'>
-   
-   Front-End Developer<br>
+
+I'm a passionate Front-End Developer with a love for creating stunning user interfaces and seamless user experiences. I specialize in building responsive, accessible, and visually appealing web applications using the latest front-end technologies.<br>
  
  🎓&nbsp;I have a Bachelor's degree in Computer Science at University of Essex.<br>
  
- I learned User Experience Design, Application Programming Interfaces (APIs), JQuery, JSON, AJAX, Node JS, JavaScript ES6, Object-Oriented Programming, React, DOM Manipulation, Responsive Design, Testing/Debugging, Chrome DevTools at Front End Development – Trilogy’s Skills Bootcamp.
+ I learned User Experience Design, Application Programming Interfaces (APIs), JQuery, JSON, AJAX, Node JS, JavaScript ES6, Object-Oriented Programming, React, DOM Manipulation, Responsive Design, Testing/Debugging, Chrome DevTools at Front End Development – Trilogy’s Skills Bootcamp.<br>
+
+ I learned HTML, CSS, JavaScript, VSCode, API, Git, GitHub, Hosting, AI, Python, Data Structure, OOP, File Manipulation, Data Visualization, Data Manipulation, Bootstrap, SEO, Responsive, React.js at Junior Developer - SheCodes.
+
+
+
+ 
  
 </h3>
 
@@ -61,25 +66,29 @@
 
 </h3>
 
-<h3 align="center"> :fire: My Stats :
+<h3 align="center"> :fire: My GitHub Stats:
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yvonnesarah&theme=dark&background=000000)](https://git.io/streak-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yvonnesarah&show_icons=true&theme=radical)
 
 </h3>
 
 
 <h3 align="center">Top Languages Used
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah)](https://github.com/yvonnesarah/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah&layout=compact&theme=radical)
+</h3>
+
+<h3 align='center'>GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvonnesarah&theme=dark)](https://git.io/streak-stats)
 
 </h3>
 
-<h3 align='center'>GitHub Stats 
+<h3 align='center'> 
   
-  ![Yvonne's github stats](https://github-readme-stats.vercel.app/api?username=yvonnesarah&theme=dark&background=000000)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=yvonnesarah&style=flat-square)
 
-</h3>
+  </h3>
   
 <p align='center'>
   📫 How to reach me: <a href='mailto:yvonneadedeji.sarah@gmail.com'>yvonneadedeji.sarah@gmail.com</a>
