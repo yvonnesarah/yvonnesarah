@@ -78,12 +78,6 @@ I'm a passionate Front-End Developer with a love for creating stunning user inte
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah&layout=compact&theme=radical)
 </h3>
 
-<h3 align='center'>GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvonnesarah&theme=dark)](https://git.io/streak-stats)
-
-</h3>
-
 <h3 align='center'> 
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=yvonnesarah&style=flat-square)
