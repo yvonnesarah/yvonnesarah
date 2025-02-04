@@ -24,13 +24,6 @@ I'm a passionate Front-End Developer with a love for creating stunning user inte
  🎓&nbsp;I have a Bachelor's degree in Computer Science at University of Essex.<br>
  
  I learned User Experience Design, Application Programming Interfaces (APIs), JQuery, JSON, AJAX, Node JS, JavaScript ES6, Object-Oriented Programming, React, DOM Manipulation, Responsive Design, Testing/Debugging, Chrome DevTools at Front End Development – Trilogy’s Skills Bootcamp.<br>
-
- I learned HTML, CSS, JavaScript, VSCode, API, Git, GitHub, Hosting, AI, Python, Data Structure, OOP, File Manipulation, Data Visualization, Data Manipulation, Bootstrap, SEO, Responsive, React.js at Junior Developer - SheCodes.
-
-
-
- 
- 
 </h3>
 
 <h3 align="center">Tech Stack 🛠
