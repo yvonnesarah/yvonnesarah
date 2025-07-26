@@ -19,7 +19,7 @@
 
 <h3 align='center'>
 I'm passionate about building beautiful, responsive, and accessible web applications with a focus on user experience and clean, maintainable code.
-
+<br>
 🔧 Tech Stack: JavaScript (ES6+), React, Node.js, jQuery, HTML5, CSS3, AJAX, JSON, APIs
 🧠 Concepts: UX Design, DOM Manipulation, Object-Oriented Programming, Responsive Design, Testing/Debugging, DevTools
 
