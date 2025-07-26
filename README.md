@@ -18,13 +18,35 @@
   
 
 <h3 align='center'>
+I'm a passionate Front-End Developer dedicated to crafting stunning user interfaces and delivering seamless user experiences. I specialize in building responsive, accessible, and visually engaging web applications using the latest front-end technologies.
 
-I'm a passionate Front-End Developer with a love for creating stunning user interfaces and seamless user experiences. I specialize in building responsive, accessible, and visually appealing web applications using the latest front-end technologies.<br>
- 
- 🎓&nbsp;I have a Bachelor's degree in Computer Science at University of Essex.<br>
- 
- I learned User Experience Design, Application Programming Interfaces (APIs), JQuery, JSON, AJAX, Node JS, JavaScript ES6, Object-Oriented Programming, React, DOM Manipulation, Responsive Design, Testing/Debugging, Chrome DevTools at Front End Development – Trilogy’s Skills Bootcamp.<br>
-</h3>
+🎓 I hold a Bachelor’s degree in Computer Science from the University of Essex.
+
+🛠️ My technical skillset has been honed through intensive training programs, including:
+
+Front-End Development – Trilogy’s Skills Bootcamp, where I gained hands-on experience in:
+
+User Experience (UX) Design
+
+Application Programming Interfaces (APIs)
+
+jQuery, JSON, AJAX
+
+Node.js and JavaScript ES6
+
+Object-Oriented Programming (OOP)
+
+React and DOM Manipulation
+
+Responsive Design
+
+Testing & Debugging
+
+Chrome DevTools
+
+IT Career Switch Ltd – Full Stack Developer Coding Traineeship, which further expanded my knowledge across the full development stack.
+
+I’m enthusiastic about continual learning and committed to building high-quality, user-focused web solutions.
 
 <h3 align="center">Tech Stack 🛠
 
