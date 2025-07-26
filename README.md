@@ -18,7 +18,6 @@
   
 
 <h3 align='center'>
-👋 Hi there! I'm a Front-End Developer
 I'm passionate about building beautiful, responsive, and accessible web applications with a focus on user experience and clean, maintainable code.
 
 🔧 Tech Stack: JavaScript (ES6+), React, Node.js, jQuery, HTML5, CSS3, AJAX, JSON, APIs
@@ -30,11 +29,10 @@ BSc in Computer Science – University of Essex
 
 Front-End Development Bootcamp – Trilogy Skills Bootcamp
 
-Full Stack Developer Traineeship – IT Career Switch Ltd
+Full Stack Developer - Coding Traineeship – IT Career Switch Ltd
 
 📚 Always learning. Always building.
 💻 Currently working on improving my full-stack skills and contributing to open-source projects.
-
 </h3>
 
 <h3 align="center">Tech Stack 🛠
