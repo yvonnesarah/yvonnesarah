@@ -54,9 +54,9 @@ Windows
 🔥 GitHub Stats
 
 ![Yvonne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yvonnesarah&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonnesarah&layout=compact&theme=radical)
 
+![GitHub Stats](https://streak-stats.demolab.com?user=yvonnesarah&theme=solarized-light&hide_border=true)
 </h3>
 
 ---
