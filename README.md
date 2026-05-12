@@ -24,7 +24,7 @@ Front-End Developer | Tech Enthusiast
 
 ### 🛠 Tech Stack
 **Languages:**  
-JavaScript (ES6+), HTML5, CSS3, PHP, Python, MySQL
+JavaScript (ES6+), HTML5, CSS3, PHP, MySQL
 
 **Frameworks & Libraries:**  
 React, Node.js, jQuery, Bootstrap
