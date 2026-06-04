@@ -53,7 +53,7 @@ Windows
 <h3 align="center"> 
 🔥 GitHub Stats
 
-![GitHub Stats](https://streak-stats.demolab.com?user=yvonnesarah&theme=solarized-light&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com/?user=yvonnesarah&theme=solarized-light&hide_border=true)
 </h3>
 
 ---
