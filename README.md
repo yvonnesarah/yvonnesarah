@@ -6,16 +6,10 @@
   </h3> -->
 
 <h1 align='center'>
-👋🏽 Hi there, I'm Yvonne 👩🏾‍💻  
-Front-End Developer | Tech Enthusiast
+👋🏽 Hi there, I'm Yvonne 👩🏾‍💻 <p>
+Front-End Developer | Full-Stack Developer | Tech Enthusiast
+ </p> 
 </h1>
-
-<p align='center'>
-    
-  <a href="https://www.linkedin.com/in/yvonne-adedeji/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
 
 
 <h4 align='center'>I'm passionate about building beautiful, responsive, and accessible web applications — always with a focus on great user experience and clean, maintainable code.</h4>
@@ -40,12 +34,12 @@ Windows
 ### 📚 Education & Training
 - 🎓 **BSc in Computer Science** – *University of Essex*  
 - 💻 **Front-End Development Bootcamp** – *Trilogy Skills Bootcamp*  
-- 🧩 **Full Stack Developer Coding Traineeship** – *IT Career Switch Ltd*
+- 🧩 **Full-Stack Developer Coding Traineeship** – *IT Career Switch Ltd*
 
 ---
 
 ### 🚀 What I'm Working On
-- Expanding my full-stack development skills  
+- Expanding my Full-Stack development skills  
 - Contributing to open-source projects  
 - Building clean, accessible UI components and scalable applications
 
